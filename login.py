@@ -1,7 +1,7 @@
 from module1 import *
 from tkinter import *
-logins={"admin":"admin1"}
-passwords={"admin1":"admin"}
+logins={"admin":"admin"}
+passwords={"admin":"admin"}
 aken=Tk()
 aken.geometry("600x600")
 aken.title("Menu")
